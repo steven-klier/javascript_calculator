@@ -1,0 +1,26 @@
+#container {
+    text-align: center;
+    margin-top: 50px;
+    font-size: large;
+    height: 100%;
+}
+
+#calculations {
+    text-align: right;
+    height: 50px;
+    font-size: 30px;
+}
+
+.btn {
+    font-size: 30px;
+    padding: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    margin-top:50px;
+    margin-bottom:50px;
+}
